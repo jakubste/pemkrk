@@ -80,7 +80,7 @@ doradcy nie pobierają wynagrodzenia za swoją funkcję,
 > Natomiast doświadczenie samorzadowe jakie posiada osoba Społecznego Doradcy tj. 16 lat pełnienia funkcji Radnej
 > Miasta Krakowa jest opisane na stronie internetowej www.patena.pl. 
 
-Komentarz: Odpowiedź niestety niespecjalnie jest na temat. Z publicznie dostępnych informacji możemy dowiedzieć się
+**Komentarz:** Odpowiedź niestety niespecjalnie jest na temat. Z publicznie dostępnych informacji możemy dowiedzieć się
 jedynie że Marta Patena, poza karierą polityczną, jest matematyczką w krakowskim liceum. Wspomniana strona BIP
 zawiera wprawdzie spis działań jakie pani Patena podejmowała w związku z PEM, nie wiemy jednak o żadnych
 szczególnych kwalifikacjach które czyniłyby panią Patenę wartościowym członkiem zespołu doradców PMK.
@@ -97,7 +97,7 @@ szczególnych kwalifikacjach które czyniłyby panią Patenę wartościowym czł
 > osi PEM. Klikając na ikonę ,Wyszukiwanie. można wpisać nazwę ulicy oraz numer budynku i sprawdzić lokalizacje
 > najbliższych stacji bazowych telefonii komórkowych w okolicy.
 
-Komentarz: Mapa rozmieszczenia SBTK jest jednym z działań wymienionych na stronie społecznego doradcy.
+**Komentarz:** Mapa rozmieszczenia SBTK jest jednym z działań wymienionych na stronie społecznego doradcy.
 Nie zawiera ona jednak żadnej szczegółowej informacji gdzie ów mapa jest (w szczególności nie jest podlinkowana),
 więc przyznam szczerze że to było pytanie sprawdzające czy mapa rzeczywiście istnieje. Istnieje. I jest nawet
 ciekawa ;)
@@ -122,7 +122,7 @@ ciekawa ;)
 > 
 > Ponadto, wśród kosztów eksploatacji urządzeń należy uwzględnić wymaganą kalibrację co dwa lata, o której mowa w Ad 25. 
 
-Komentarz:
+**Komentarz:**
 
 Tutaj pojawia się dużo informacji wymagających wyjaśnienia:
 
@@ -152,7 +152,7 @@ Podsumujemy je później :)
 > pod kątem wpływu pól elektromagnetycznych na zdrowie pn. „Pilotażowe badania reakcji układu krążenia,
 > regulacji neurowegetatywnej i snu na działanie pól elektromagnetycznych (PEM) w środowisku komunalnym". 
 
-Komentarz:
+**Komentarz:**
 
 Pytanie dążyło do zbadania konieczności zakupu aż kilku urządzeń tego typu.
 
@@ -200,7 +200,7 @@ BIP podaje że zakupione zostały trzy ekspozymetry (https://www.bip.krakow.pl/?
 > Trzeci ekspozymetr zakupiony przez Gminę Miejską Kraków w 2017 r. również znajduje się w
 > Wydziale Kształtowania Środowiska UMK i jest wykorzystywany do wypożyczania mieszkańcom.
 
-Komentarz: pytanie miało na celu wyjaśnić rozbieżności między dwoma stronami - wyjaśniło się :)
+**Komentarz:** pytanie miało na celu wyjaśnić rozbieżności między dwoma stronami - wyjaśniło się :)
 
 ## (Wnioski z raportu dot. dzieci i młodzieży)
 
@@ -212,7 +212,7 @@ W jaki sposób “wnioski i zalecenia oraz programy edukacyjne” z raportu
 > Raport zlecony przez Miejskie Centrum Profilaktyki Uzależnień w Krakowie został przekazany do krakowskich sokół.
 > Na chwilę obecną brak jest wniosków z raportów. 
 
-Komentarz:
+**Komentarz:**
 
 Cały raport można przeczytać [tutaj](https://www.mcpu.krakow.pl/sites/default/files/korzystanie_z_urzadzen_elektronicznych_oraz_z_internetu_przez_dzieci_i_m.pdf).
 Wniosków z raportu, wbrew twierdzeniom UMK, jest całkiem sporo, i zamieszczone są w samym raporcie w rozdziale "Wnioski i rekomendacje".
@@ -263,7 +263,7 @@ wydatkowano łącznie 152 933,35 zł.
 > - Piknik bez smartfona: 79 301,04 zł;
 > - Pozostałe wydatki na projekt: 45 077,58 zł.
 
-Komentarz:
+**Komentarz:**
 
 W oczywisty sposób pojawiają się pytania na co de facto poszły te pieniądze - piknik za prawie 80 tysięcy złotych
 czy tajemnicze "pozostałe wydatki" w kwocie ponad 45 tysięcy złotych zdecydowanie warte są dodatkowych pytań.
@@ -294,7 +294,7 @@ Ile osób wzięło udział w działaniach realizowanych w ramach projektu “Eko
 > b) W Pikniku bez smartfona brało udział trwale około 500 osób. 
 >Podczas imprez plenerowych, trwających cały dzień, trudno jednoznacznie stwierdzić ile osób łącznie odwiedziło przedsięwzięcie. 
 
-Komentarz: Mam nadzieję, że jesteście w gronie tych kilkunastu tysięcy szczęśliwców którzy natknęli się na bardzo
+**Komentarz:** Mam nadzieję, że jesteście w gronie tych kilkunastu tysięcy szczęśliwców którzy natknęli się na bardzo
 medialny projekt "Bądźmy EkoCyfrowi". Mi się niestety nie udało.
 
 ## (Fanpage "EkoCyfrowi")
