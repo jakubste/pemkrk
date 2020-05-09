@@ -1,0 +1,6 @@
+site_name: Promieniowanie elektromagnetyczne w Krakowie
+
+theme: material
+
+markdown_extensions:
+  - attr_list

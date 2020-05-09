@@ -129,6 +129,32 @@ version = "0.5.6"
 
 [[package]]
 category = "main"
+description = "A Material Design theme for MkDocs"
+name = "mkdocs-material"
+optional = false
+python-versions = "*"
+version = "5.1.5"
+
+[package.dependencies]
+Pygments = ">=2.4"
+markdown = ">=3.2"
+mkdocs = ">=1.1"
+mkdocs-material-extensions = ">=1.0b1"
+pymdown-extensions = ">=7.0"
+
+[[package]]
+category = "main"
+description = "Extension pack for Python Markdown."
+name = "mkdocs-material-extensions"
+optional = false
+python-versions = ">=3.5"
+version = "1.0b2"
+
+[package.dependencies]
+mkdocs-material = ">=5.0.0"
+
+[[package]]
+category = "main"
 description = "Natural Language Toolkit"
 name = "nltk"
 optional = false
@@ -148,6 +174,25 @@ machine_learning = ["gensim", "numpy", "python-crfsuite", "scikit-learn", "scipy
 plot = ["matplotlib"]
 tgrep = ["pyparsing"]
 twitter = ["twython"]
+
+[[package]]
+category = "main"
+description = "Pygments is a syntax highlighting package written in Python."
+name = "pygments"
+optional = false
+python-versions = ">=3.5"
+version = "2.6.1"
+
+[[package]]
+category = "main"
+description = "Extension pack for Python Markdown."
+name = "pymdown-extensions"
+optional = false
+python-versions = ">=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*"
+version = "7.1"
+
+[package.dependencies]
+Markdown = ">=3.2"
 
 [[package]]
 category = "main"
@@ -206,7 +251,7 @@ docs = ["sphinx", "jaraco.packaging (>=3.2)", "rst.linker (>=1.9)"]
 testing = ["jaraco.itertools", "func-timeout"]
 
 [metadata]
-content-hash = "0c6aacc25d54d59e0767a2690c67429212c5b96e8592fb919f916f44fcbdf67d"
+content-hash = "6b367fe91bc15f5826570bb3d4b9cdf43abc93ccc77e11bbe2e911e9bd14415a"
 python-versions = "^3.7"
 
 [metadata.files]
@@ -280,8 +325,24 @@ mkdocs = [
     {file = "mkdocs-1.1-py2.py3-none-any.whl", hash = "sha256:1e385a70aea8a9dedb731aea4fd5f3704b2074801c4f96f06b2920999babda8a"},
     {file = "mkdocs-1.1.tar.gz", hash = "sha256:9243291392f59e20b655e4e46210233453faf97787c2cf72176510e868143174"},
 ]
+mkdocs-material = [
+    {file = "mkdocs-material-5.1.5.tar.gz", hash = "sha256:84ab9a5ceaa5c1b25e70464e8da1f0a4c03dcf1bd6099cfba9fd541cf7876f6b"},
+    {file = "mkdocs_material-5.1.5-py2.py3-none-any.whl", hash = "sha256:6dafa092e30d04adaa46e63515b9180b61a26233cfe16d79168adc2dd91b3ea1"},
+]
+mkdocs-material-extensions = [
+    {file = "mkdocs-material-extensions-1.0b2.tar.gz", hash = "sha256:838580195f3f4d6c937238b1ce81365744348bca8bb2c694028aacf21bfac518"},
+    {file = "mkdocs_material_extensions-1.0b2-py3-none-any.whl", hash = "sha256:f2557ab830c2ecc0306a0741d7d943f7036b5fb167a5a92850ee6a1c9ce51d5a"},
+]
 nltk = [
     {file = "nltk-3.5.zip", hash = "sha256:845365449cd8c5f9731f7cb9f8bd6fd0767553b9d53af9eb1b3abf7700936b35"},
+]
+pygments = [
+    {file = "Pygments-2.6.1-py3-none-any.whl", hash = "sha256:ff7a40b4860b727ab48fad6360eb351cc1b33cbf9b15a0f689ca5353e9463324"},
+    {file = "Pygments-2.6.1.tar.gz", hash = "sha256:647344a061c249a3b74e230c739f434d7ea4d8b1d5f3721bc0f3558049b38f44"},
+]
+pymdown-extensions = [
+    {file = "pymdown-extensions-7.1.tar.gz", hash = "sha256:5bf93d1ccd8281948cd7c559eb363e59b179b5373478e8a7195cf4b78e3c11b6"},
+    {file = "pymdown_extensions-7.1-py2.py3-none-any.whl", hash = "sha256:8f415b21ee86d80bb2c3676f4478b274d0a8ccb13af672a4c86b9ffd22bd005c"},
 ]
 pyyaml = [
     {file = "PyYAML-5.3.1-cp27-cp27m-win32.whl", hash = "sha256:74809a57b329d6cc0fdccee6318f44b9b8649961fa73144a98735b0aaf029f1f"},
