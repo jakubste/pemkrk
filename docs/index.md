@@ -57,6 +57,7 @@ ale wierząc w ideę dostępności informacji chcę poświęcić czas na przygot
 (między innymi z tego z resztą wynikał fakt że czekałem z tym tak długo).
 
 Użyte skróty:
+
 - UMK - Urząd Miasta Krakowa
 - BIP - [Biuletyn Informacji Publicznej](http://bip.krakow.pl/)
 - PEM - promieniowanie elektromagnetyczne
@@ -64,6 +65,7 @@ Użyte skróty:
 - SBTK - Stacja Bazowa Telefonii Komórkowej
 
 W dalszej części często pojawiać się będą dwie osoby, więc dla ułatwienia lektury przedstawię krótko bohaterów:
+
 - Marta Patena - Społeczny Doradca Prezydenta Miasta Krakowa ds. Problematyki Bioelektromagnetycznej - społeczni
 doradcy nie pobierają wynagrodzenia za swoją funkcję,
 - Barbara Gałdzińska-Calik - "ekspertka" UMK zatrudniona przez UMK na podstawie umowy o dzieło - za swoje usługi poboiera wynagrodzenie.
@@ -107,8 +109,10 @@ ciekawa ;)
 ![odp3-1](images/odp-3-2.png)
 
 > Ekspozymetry zakupione zostały na podstawie poniższych umów: 
+>
 > 1) W/II/ 4092/W5/3985/2016 z dnia 25 października 2016 r. - w ramach umowy zakupiono 2 sztuki ekspozymetrdw 
 > EME Spy 200 z oprogramowaniem EME Spy Analysis, wraz z telefonami- koszt 71 340,00 zł brutto; 
+>
 > 2) W/II/2899/W5/2834/2017 z dnia 26 czerwca 2017 r. - w ramach umowy zakupiono 1 ekspozymetr EME Spy 200 z
 > oprogramowaniem EME Spy Real Time wraz z tabletem - koszt 57 810,00 zł brutto;
 > 
@@ -121,6 +125,7 @@ ciekawa ;)
 Komentarz:
 
 Tutaj pojawia się dużo informacji wymagających wyjaśnienia:
+
 - Miasto Kraków posiada 3 ekspozymetry. Ekspozymetr jest to urządzenie służące do pomiaru natężenia promieniowania.
 - Ekspozymetr może wypożyczyć chętny mieszkaniec. Ekspozymetr otrzymuje się zaplombowany w torbie, torbę ze sprzętem
 nosi się ze sobą przez dobę (a więc w tym czasie możemy sprawdzić jakiego typu promieniowanie elektromagnetyczne
@@ -236,6 +241,7 @@ rozdział zatytułowany "Wnioski i rekomendacje" nie zawiera żadnych rekomendac
 ## (Koszty programu "EkoCyfrowi")
 
 Jakie koszty poniosło Miasto Kraków w związku z realizacją projekty “EkoCyfrowi” w całości oraz rozbiciu na działania:
+
 - konkurs dla dzieci i młodzieży
     - konkurs fotograficzny
     - konkurs literacki
@@ -249,6 +255,7 @@ Jakie koszty poniosło Miasto Kraków w związku z realizacją projekty “EkoCy
 wydatkowano łącznie 152 933,35 zł. 
 > 
 > W tym: 
+>
 > - Konkurs fotograficzny: 9 000 zł;
 > - Konkurs „Wyślij pocztówkę zamiast SMS-a" 5 484,69zł;
 > - Konkurs literacki: 2 696,55 zł; 
