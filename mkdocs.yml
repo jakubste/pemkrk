@@ -2,5 +2,9 @@ site_name: Promieniowanie elektromagnetyczne w Krakowie
 
 theme: material
 
+nav:
+  - Wstęp: 'index.md'
+  - Wniosek o inf. publ. 1: 'udip-1.md'
+
 markdown_extensions:
   - attr_list
