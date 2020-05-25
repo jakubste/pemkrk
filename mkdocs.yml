@@ -4,7 +4,9 @@ theme: material
 
 nav:
   - Wstęp: 'index.md'
-  - Wniosek o inf. publ. 1: 'udip-1.md'
+  - Wniosek o inf. publ. 2019: 'udip-1.md'
+  - ile-nas-to-kosztuje.md
 
 markdown_extensions:
   - attr_list
+  - pymdownx.tilde

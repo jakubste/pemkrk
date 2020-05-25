@@ -8,6 +8,7 @@ authors = ["jakubste"]
 python = "^3.7"
 mkdocs = "^1.1"
 mkdocs-material = "^5.1.5"
+pymdown-extensions = "^7.1"
 
 [tool.poetry.dev-dependencies]
 
