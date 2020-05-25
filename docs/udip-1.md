@@ -1,8 +1,8 @@
 Wniosek o udostępnienie informacji publicznej - 19.02.2019
 ==========================================================
 
-Dla porządku kopia [mojego pisma](docs/wniosek-udip.pdf) do Prezydenta Miasta Krakowa oraz odpowiedzi w formie
-w jakiej przyszły z Urzędu Miasta spakowane do archiwum ZIP (zanonimizowałem jedynie swoje dane osobowe).
+Dla porządku kopia [mojego pisma](docs/wniosek-udip.pdf) do Prezydenta Miasta Krakowa oraz [odpowiedzi](docs/odpowiedz-full.pdf)
+w formie w jakiej przyszły z Urzędu Miasta w PDF.
 
 W dalszej części pytania i odpowiedzi w wygodniejszej do czytania formie.
 
