@@ -92,4 +92,3 @@ Barbary Gałdzińska-Calik finansowanej przez Miasto Kraków.
 ## Kontakt
 
 Uwagi i informacje które powinny uzupełnić tą stronę proponuję zgłaszać przez [githuba](https://github.com/jakubste/pemkrk/issues).
-
