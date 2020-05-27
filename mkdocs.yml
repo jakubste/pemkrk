@@ -1,6 +1,10 @@
 site_name: Promieniowanie elektromagnetyczne w Krakowie
 
-theme: material
+theme:
+  name: material
+  favicon: images/cell-tower.png
+  icon:
+    logo: material/radio-tower
 
 nav:
   - Wstęp: 'index.md'
