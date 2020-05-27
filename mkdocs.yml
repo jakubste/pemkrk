@@ -14,3 +14,5 @@ nav:
 markdown_extensions:
   - attr_list
   - pymdownx.tilde
+
+google_analytics: ['UA-167791373-1', 'github']
