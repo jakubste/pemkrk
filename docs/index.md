@@ -38,7 +38,7 @@ rejestrowane przez "miejskie" ekspozymetry są tylko zgłaszane do WIOŚ - Miast
 operatorów sieci komórkowych. (W dodatku Miasto najwyraźniej nie jest nawet zainteresowane wynikami tych zgłoszeń,
 bo z pytaniem o ich efekty odesłało mnie do WIOŚ - postaram się dopytać i poinformować)
 
-Działania pani Pateny i pani Gałdzińskiej w mojej ocenie nie mają jednak charakteru naukowej prewencji zagrożenia,
+Działania pani Pateny i pani Gałdzińskiej-Calik w mojej ocenie nie mają jednak charakteru naukowej prewencji zagrożenia,
 a przypominają bardziej, niestety coraz popularniejsze ostatnio, ruchy [anty-5G czy antyszczepionkowe](https://krakow.wyborcza.pl/krakow/7,44425,24439507,hipnoterapeuta-i-byla-kandydatka-po-na-prezydenta-krakowa-razem.html).
 
 Nawet jeśli doceniłbym proaktywność Miasta w wykrywaniu np. stacji bazowych telefonii komórkowej przekraczających
@@ -72,23 +72,24 @@ o treści:
 
 > 5G w Krakowie! Urząd Komunikacji Elektronicznej podał, gdzie operatorzy telefonii komórkowej dostali zgodę na uruchomienie nowego standardu 5G. W Krakowie jest to Play na paśmie 2100MHz. W podpiętym pliku, dla zainteresowanych, znajdą Państwo dokładne adresy lokalizacji stacji bazowych 5G w Krakowie (polecam skorzystać z wyszukiwarki w Excelu wpisując "Kraków"). Na innych pasmach 5G: 1800MHz i 2600MHz na dzień 27.04.2020 nie ma w Krakowie wydanych pozwoleń, więc plików nie podpinam.
 
-Załączony arkusz zawiera spis lokalizacji masztów bazowych dla sieci 5G z całej Polski - w tym w Krakowie.
+Załączony arkusz zawiera spis lokalizacji masztów bazowych dla sieci 5G w całej Polsce - również w Krakowie.
 
 Post spotkał się z, delikatnie ujmując, humorystycznym przyjęciem, natomiast mnie najbardziej zainteresowała osoba,
 która była autorem tego postu - pani Barbara Gałdzińska-Calik świadczy (bądź świadczyła - jak już wspomniałem na wstępie
 najświeższe informacje mam z przed roku, ale każą one przypuszczać, że współpraca pani Calik z Urzędem Miasta ma
 charakter stały) szereg usług dotyczących tematyki promieniowania elektromagnetycznego. 
 
-Zauważywszy to powiązanie skomentowałem post (przyznaję, w sposób być może dosadny, ale takie realia social mediów :)):
+Zauważywszy to powiązanie skomentowałem post (przyznaję, w sposób być może dosadny, ale takie są realia social mediów :)):
 
 ![komentarz pod postem na fb](images/komentarz-fb.png){: style="max-width: 60%;"}
 
 Ponieważ pani Barbara Gałdzińska-Calik zarzuciła mi podawanie informacji nieprawdziwych, jednocześnie nigdy nie
-odpowiadając co konkretnie w moim komentarzu jest nieprawdą, postanowiłem wreszcie opublikować materiały jakie
+odpowiadając na pytanie co konkretnie w moim komentarzu jest nieprawdą, postanowiłem wreszcie opublikować materiały jakie
 dostałem na mocy ustawy o dostępie do informacji publicznych, a dotyczą m.in. działalności pani 
 Barbary Gałdzińska-Calik finansowanej przez Miasto Kraków.
 
 
 ## Kontakt
 
-Uwagi i informacje które powinny uzupełnić tą stronę proponuję zgłaszać przez [githuba](https://github.com/jakubste/pemkrk/issues).
+Uwagi i informacje które powinny uzupełnić tę stronę proponuję zgłaszać przez [githuba](https://github.com/jakubste/pemkrk/issues).
+Pytania do mnie można m.in. przez twittera [@jakub_ste](https://twitter.com/jakub_ste).
