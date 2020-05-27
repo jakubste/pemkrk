@@ -3,7 +3,7 @@ Koszty poniesione przez Kraków w tematyce ochrony przed PEM
 
 # Stan licznika
 
-**1 233 348,12 zł**
+**1 133 348,12 zł**
 
 obejmuje to wszystko do czego dotarłem z lat 2016-2018, rozbite poniżej.
 
@@ -15,7 +15,7 @@ Pani Barbara Gałdzińska-Calik na podstawie umów:
 - [W-I-351-WS-10-2017](docs/W-I-351-WS-10-2017.pdf) z [aneksem](docs/W-I-351-WS-10-2017-aneks.pdf) - **100 000 zł**
 - [W-I-668-WS-18-2018](docs/W-I-668-WS-18-2018.pdf) z [aneksem](docs/W-I-668-WS-18-2018-aneks.pdf) - **100 000 zł**
 
-Łącznie **386 100 zł** w latach 2016-2018.
+Łącznie **286 100 zł** w latach 2016-2018.
 
 ## Program ochrony przed PEM
 
