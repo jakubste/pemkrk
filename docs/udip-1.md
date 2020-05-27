@@ -1,5 +1,5 @@
 ---
-og_image: images/social.png
+og_image: pemkrk/images/social.png
 ---
 Wniosek o udostępnienie informacji publicznej - 19.02.2019
 ==========================================================
