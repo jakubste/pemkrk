@@ -1,3 +1,6 @@
+---
+og_image: images/social.png
+---
 Koszty poniesione przez Kraków w tematyce ochrony przed PEM
 ===========================================================
 

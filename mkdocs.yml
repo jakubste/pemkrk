@@ -5,6 +5,7 @@ theme:
   favicon: images/cell-tower.png
   icon:
     logo: material/radio-tower
+  custom_dir: 'theme'
 
 nav:
   - Wstęp: 'index.md'

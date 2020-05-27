@@ -1,3 +1,6 @@
+---
+og_image: images/social.png
+---
 Wniosek o udostępnienie informacji publicznej - 19.02.2019
 ==========================================================
 

@@ -1,3 +1,6 @@
+---
+og_image: images/social.png
+---
 # Elektromagnetyzm w Krakowie
 
 
